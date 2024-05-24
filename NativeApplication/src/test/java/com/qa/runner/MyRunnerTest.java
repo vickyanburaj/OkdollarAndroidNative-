@@ -16,6 +16,6 @@ import io.cucumber.junit.CucumberOptions.SnippetType;
 ,features = {"src/test/resources"}
 ,glue = {"com.qa.stepdef"})
 
-public class MyRunnerTest {
+public class testing{
 
 }
